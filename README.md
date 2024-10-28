@@ -1,22 +1,22 @@
 ###
 
-<h1 align="center">Привет👋 Меня зовут Shakhzoda!</h1>
+<h1 align="center">Hi) My name is Shakhzoda!</h1>
 
 ###
 
 ###
 
-<h3 align="center">🧑‍💻  Обо мне:</h3>
+<h3 align="center">About me:</h3>
 
 ###
 
-<p align="center">Я начинающий Backend разработчик. Мой путь в IT начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в основном обучении, где я пробовал себя во многих направлениях, изучал язык Си и C++, также работал в области data science, но больше всего меня зацепила Backend разработка!</p>
+<p align="center">I am a beginner programmer. For my interest in programming, I joined 'School21' programming school and now I am studying in basic education. I am learning C and C++ programming languages ​​here</p>
 
 
 
 ###
 
-<h3 align="center"> 💬 Свяжитесь со мной:</h3>
+<h3 align="center">💬 Contact me:</h3>
 
 ###
 <div align="center">
@@ -29,7 +29,7 @@
 </div>
 
 
-<h3 align="center">🛠 Технологии:</h3>
+<h3 align="center">🛠 Technologies:</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="center">🔥 Моя статистика:</h3>
+<h3 align="center">My statistics:</h3>
 
 
 ###
