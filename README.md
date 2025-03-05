@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I am a beginner programmer. For my interest in programming, I joined 'School21' programming school and now I am studying in basic education. I am learning C and C++ programming languages ​​here</p>
+<p align="center">I am a beginner programmer. For my interest in programming, I joined 'School21' programming school and now I am studying in basic education. I am learning C, Go, JavaScript and SQL programming languages ​​here</p>
 
 
 
